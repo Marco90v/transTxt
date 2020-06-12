@@ -1,0 +1,12 @@
+{
+  "name": "txt",
+  "version": "1.0.0",
+  "description": "modificacion de txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Velasquez Figarella",
+  "license": "ISC",
+  "dependencies": {}
+}
